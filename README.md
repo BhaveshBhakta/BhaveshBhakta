@@ -38,7 +38,11 @@ GitHub Stats:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhaveshBhakta&theme=vision_friendly_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhaveshBhakta&theme=github_dark&utcOffset=8" style="margin-left: 100px;">
 </p>
+<br/>
 
+Contribution Graph:
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<br/>
 
 Contribution History:
 <br/>
