@@ -28,14 +28,6 @@
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/tnt/emea/intl0035/a6-premiere.svg" alt="premiere pro" title="Premiere Pro"/></code>
 </div>
 
-
-
-Contribution Graph:
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-<br/>
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshBhakta&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
 <br/>
 
