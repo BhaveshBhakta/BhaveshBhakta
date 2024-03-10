@@ -25,7 +25,7 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python"/></code>
 	<code><img width="50" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" title="Blender"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="after effects" title="After Effects"/></code>
-	<code><img width="50" src="[https://www.adobe.com/content/dam/cc/tnt/emea/intl0035/a6-premiere.svg](https://www.adobe.com/content/dam/shared/images/product-icons/svg/premiere.svg)" alt="premiere pro" title="Premiere Pro"/></code>
+	<code><img width="50" src="https://www.adobe.com/content/dam/cc/tnt/emea/intl0035/a6-premiere.svg" alt="premiere pro" title="Premiere Pro"/></code>
 </div>
 
 
