@@ -21,7 +21,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop"/></code>
+	<code><img width="50" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" title="Photoshop"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python"/></code>
 	<code><img width="50" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" title="Blender"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="after effects" title="After Effects"/></code>
