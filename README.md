@@ -30,10 +30,10 @@
 
 
 
-<!-- Contribution Graph:
+Contribution Graph:
 
-![](./profile-3d-contrib/profile-night-green.svg) -->
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<br/>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshBhakta&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
