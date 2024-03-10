@@ -23,7 +23,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" title="Photoshop"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python"/></code>
-	<code><img width="50" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" title="Blender"/></code>
+	<code><img width="40" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" title="Blender"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="after effects" title="After Effects"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/tnt/emea/intl0035/a6-premiere.svg" alt="premiere pro" title="Premiere Pro"/></code>
 </div>
