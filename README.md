@@ -58,6 +58,4 @@ Socials:
   <a href="https://www.linkedin.com/in/bhavesh-bhakta/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-![snake gif](https://github.com/bhaveshbhakta/bhaveshbhakta/blob/output/github-contribution-grid-snake.gif)
-
 
