@@ -38,11 +38,6 @@ GitHub Stats:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhaveshBhakta&theme=vision_friendly_dark">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhaveshBhakta&theme=github_dark&utcOffset=8" style="margin-left: 100px;">
 </p>
-<br/>
-
-Contribution Graph:
-![snake gif](https://github.com/BhaveshBhakta/BhaveshBhakta/blob/output/github-contribution-grid-snake.gif)
-<br/>
 
 Contribution History:
 <br/>
@@ -54,7 +49,8 @@ Socials:
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavesh-bhakta/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
-
 </p>
+
+![snake gif](https://github.com/bhaveshbhakta/bhaveshbhakta/blob/output/github-contribution-grid-snake.gif)
 
 
