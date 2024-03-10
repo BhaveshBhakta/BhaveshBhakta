@@ -29,7 +29,7 @@
 </div>
 
 <br/>
-Contribution Graph:
+Contribution Graph: <br/>
 <br/>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
