@@ -51,6 +51,9 @@ Socials:
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavesh-bhakta/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/@bhaveshbhakta"><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma Logo" width="32"> 
+  </a>&nbsp;&nbsp;&nbsp;
+		
 </p>
 
 
