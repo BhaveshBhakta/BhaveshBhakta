@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤖, I'm Bhavesh Bhakta </h1>
+<h1 align="center">Hi 🤖, I'm Bhavesh Bhakta  </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9BF7&random=false&width=435&lines=I+code+sometimes.;Learn%2C+Push%2C+Repeat" alt="Typing SVG" /></a>
 
