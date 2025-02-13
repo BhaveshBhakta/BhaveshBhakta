@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9BF7&random=false&width=435&lines=I+code+sometimes.;Learn%2C+Push%2C+Repeat" alt="Typing SVG" /></a>
 
-<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://github.com/user-attachments/assets/46c19afa-ce87-4b7b-8884-610768441205">
+<img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://i.redd.it/8jcic9myngmb1.gif">
 
 <center><h1>Language and Tools:<h1/><center/>
 
