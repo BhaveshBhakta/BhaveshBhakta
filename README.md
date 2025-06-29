@@ -10,10 +10,10 @@
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://seeklogo.com/images/T/tensorflow-logo-C69AEAC9D0-seeklogo.com.png" alt="TensorFlow" title="TensorFlow"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/c28325f5-2f0a-4d13-8836-538b0e3381a2" title="TensorFlow"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" title="scikit-learn"/></code>
 	<code><img width="50" src="https://www.clipartmax.com/png/full/476-4769276_pytorch-logo-png.png" alt="PyTorch" title="PyTorch"/></code>
-	<code><img width="50" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="flask" title="flask"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/3ec8357f-4b8a-4efd-936c-171cae89b70d" alt="flask" title="flask"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3"/></code>
@@ -28,6 +28,7 @@
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="after effects" title="After Effects"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/tnt/emea/intl0035/a6-premiere.svg" alt="premiere pro" title="Premiere Pro"/></code>
 </div>
+![Flask--Streamline-Simple-Icons]()
 
 <br/>
 Contribution Graph: <br/>
