@@ -1,6 +1,6 @@
 <h1 align="center">Hello 🤖, I'm Bhavesh Bhakta</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9BF7&random=false&width=435&lines=I+code+sometimes.;Learn%2C+Push%2C+Repeat" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9BF7&random=false&width=435&lines=I+code+sometimes.;Prompt%2C+Build%2C+Repeat;Arrggh.+Git+Again" alt="Typing SVG" /></a>
 
 <img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://i.redd.it/8jcic9myngmb1.gif">
 
@@ -13,12 +13,14 @@
 	<code><img width="50" src="https://github.com/user-attachments/assets/c28325f5-2f0a-4d13-8836-538b0e3381a2" title="TensorFlow"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" title="scikit-learn"/></code>
 	<code><img width="50" src="https://www.clipartmax.com/png/full/476-4769276_pytorch-logo-png.png" alt="PyTorch" title="PyTorch"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/3ec8357f-4b8a-4efd-936c-171cae89b70d" alt="flask" title="flask"/></code>
+	<code><img width="50" src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/374d5c915b0796e2a823ac9a010fdeacff51d899/public" alt="langgraph" title="LangGraph"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3"/></code>
 	<code><img width="50" src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JS" title="JS"/></code>
 	<code><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" title="react"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" alt="postgre" title="postgre"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png" alt="arch" title="arch"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
@@ -26,9 +28,11 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python"/></code>
 	<code><img width="40" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" title="Blender"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg" alt="after effects" title="After Effects"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/120px-Pandas_mark.svg.png" alt="pandas" title="pandas"/></code>
 	<code><img width="50" src="https://www.adobe.com/content/dam/cc/tnt/emea/intl0035/a6-premiere.svg" alt="premiere pro" title="Premiere Pro"/></code>
+	<code><img width="50" src="https://media.licdn.com/dms/image/v2/D5612AQFSTglfKdI9eg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708971797430?e=2147483647&v=beta&t=iZKe_LBwW0NSHcz1V9_LsKskeje_BYusBCoctWYnWJ0" alt="numpy" title="numpy"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/3ec8357f-4b8a-4efd-936c-171cae89b70d" alt="flask" title="flask"/></code>
 </div>
-![Flask--Streamline-Simple-Icons]()
 
 <br/>
 Contribution Graph: <br/>
@@ -60,7 +64,6 @@ Contribution History:
 <p align="center" style="width:100%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhaveshBhakta&theme=dark">
 </p>
-
 	
 Socials:
 <br/>
@@ -68,7 +71,9 @@ Socials:
   <a href="https://www.linkedin.com/in/bhavesh-bhakta/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com/@bhaveshbhakta"><img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma Logo" width="32"> 
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.behance.net/BhaveshBhakta"><img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="Behance Logo" width="32"> 
+	<a href="https://www.kaggle.com/bhaveshbhakta"><img src="https://github.com/user-attachments/assets/f6680177-f260-474f-a00c-464d28fdabd4" alt="Kaggle Logo" width="32"> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.behance.net/BhaveshBhakta"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI1zbmWGoaWSKojOzBwnEQiBRoAxnWF_FnHA&s" alt="Behance Logo" width="32"> 
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://dribbble.com/BhaveshBhakta"> <img src="https://static.vecteezy.com/system/resources/previews/023/986/617/non_2x/dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png.png" width="32"> 
   </a>&nbsp;&nbsp;&nbsp;
