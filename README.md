@@ -14,7 +14,7 @@
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" title="scikit-learn"/></code>
 	<code><img width="50" src="https://www.clipartmax.com/png/full/476-4769276_pytorch-logo-png.png" alt="PyTorch" title="PyTorch"/></code>
 	<code><img width="50" src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/374d5c915b0796e2a823ac9a010fdeacff51d899/public" alt="langgraph" title="LangGraph"/></code>
-	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter"/></code>
+	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png?20190118024747" alt="Jupyter" title="Jupyter"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3"/></code>
 	<code><img width="50" src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JS" title="JS"/></code>
