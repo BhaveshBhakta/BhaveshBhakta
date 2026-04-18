@@ -11,7 +11,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://github.com/user-attachments/assets/c28325f5-2f0a-4d13-8836-538b0e3381a2" title="TensorFlow"/></code>
-	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" title="scikit-learn"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/d01a34fb-8a92-40cf-94dd-b066e7710dc4" alt="scikit-learn" title="scikit-learn"/></code>
 	<code><img width="50" src="https://www.clipartmax.com/png/full/476-4769276_pytorch-logo-png.png" alt="PyTorch" title="PyTorch"/></code>
 	<code><img width="50" src="https://imagedelivery.net/-IT6z0z0Ec5yEiYj3DvVjg/374d5c915b0796e2a823ac9a010fdeacff51d899/public" alt="langgraph" title="LangGraph"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/120px-Jupyter_logo.svg.png?20190118024747" alt="Jupyter" title="Jupyter"/></code>
@@ -20,7 +20,7 @@
 	<code><img width="50" src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JS" title="JS"/></code>
 	<code><img width="50" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" title="react"/></code>
 	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png" alt="postgre" title="postgre"/></code>
-	<code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/2048px-Arch_Linux_%22Crystal%22_icon.svg.png" alt="arch" title="arch"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/ccf4e7ab-ede4-47c8-aae0-6ba9ea6b325f" alt="arch" title="arch"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
